@@ -3,9 +3,9 @@
   "displayName": "Hackatime",
   "description": "Metrics, insights, and time tracking automatically generated from your programming activity.",
   "version": "25.5.1",
-  "publisher": "hackatime",
+  "publisher": "P8labs",
   "author": {
-    "name": "hackatime"
+    "name": "PriyanshuPz"
   },
   "categories": [
     "Visualization",
