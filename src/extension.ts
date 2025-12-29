@@ -23,7 +23,7 @@ var wakatime: WakaTime;
 export function activate(ctx: vscode.ExtensionContext) {
   wakatime = new WakaTime(ctx.extensionPath, logger);
 
-  ctx.globalState?.setKeysForSync(['wakatime.apiKey']);
+  ctx.globalState?.setKeysForSync(['hackatime.apiKey']);
 
   ctx.subscriptions.push(
     vscode.commands.registerCommand(COMMAND_API_KEY, function () {
