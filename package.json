@@ -1,8 +1,8 @@
 {
-  "name": "vscode-hackatime",
-  "displayName": "Hackatime",
+  "name": "vscode-unofficial-hackatime",
+  "displayName": "Unofficial Hackatime",
   "description": "Metrics, insights, and time tracking automatically generated from your programming activity.",
-  "version": "25.5.1",
+  "version": "25.5.2",
   "publisher": "P8labs",
   "author": {
     "name": "PriyanshuPz"
@@ -35,7 +35,7 @@
   "homepage": "https://hackatime.hackclub.com/",
   "bugs": {
     "url": "https://github.com/PriyanshuPz/vscode-hackatime/issues",
-    "email": "pz@p8labs.qzz.io"
+    "email": "contact@p8labs.in"
   },
   "license": "BSD-3-Clause",
   "icon": "images/hackatime-logo.png",
